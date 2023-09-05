@@ -1,4 +1,4 @@
-### Hi there 👋
+### Coursera module 2 assignment
 
 <!--
 **shivya009/shivya009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
